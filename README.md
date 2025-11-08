@@ -16,4 +16,10 @@ or if you have nodemon installed in the system
 
 ```
 nodemon app.js
+
+.env example:
+
+PORT=3001
+SUPABASE_URL=<YOUR_SUPABASE_URL>
+SUPABASE_KEY<YOUR_SUPABASE_KEY>
 ```
